@@ -1,8 +1,8 @@
 jupyterlab
-os-sys
 keras
 pandas
 matplotlib
 numpy
 tensorflow
 opencv-python
+ArabicOcr
